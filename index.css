@@ -1,0 +1,34 @@
+* {
+    font-family: Arial;
+}
+
+h1 {
+    font-family: Monaco;
+}
+
+h3 {
+    font-family: Verdana;
+}
+
+body {
+    background-color: paleturquoise;
+}
+
+article {
+    color: #090979;
+}
+
+header {
+    background-image: url("https://images.unsplash.com/photo-1470125634816-ede3f51bbb42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3Vuc2V0JTIwcGFub3JhbWF8ZW58MHx8MHx8&w=1000&q=80");
+    color: white;
+}
+
+/* link styles*/
+a {
+    color: lightseagreen;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration-line: underline;
+}
